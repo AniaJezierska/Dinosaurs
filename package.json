@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/AniaJezierska/Dinosaurs/issues"
   },
-  "homepage": "https://github.com/AniaJezierska/Dinosaurs#readme"
+  "homepage": "https://github.com/AniaJezierska/Dinosaurs#readme",
+  "devDependencies": {
+    "webpack": "^5.41.1",
+    "webpack-cli": "^4.7.2"
+  },
+  "dependencies": {}
 }
