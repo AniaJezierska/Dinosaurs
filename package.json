@@ -1,0 +1,19 @@
+{
+  "name": "Dinosaurs",
+  "version": "1.0.0",
+  "description": "Udacity Dinosaurs Project",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AniaJezierska/Dinosaurs.git"
+  },
+  "author": "Ania Jezierska",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AniaJezierska/Dinosaurs/issues"
+  },
+  "homepage": "https://github.com/AniaJezierska/Dinosaurs#readme"
+}
